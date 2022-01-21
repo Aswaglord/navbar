@@ -1,9 +1,20 @@
+body {
+    background-color: #7395AE;
+    
+}
+
+.navbar-container {
+    background-color: #557A95;
+}
+
+
+
+
 .body-container {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding-top: 25px;
-    padding-right: 50px;
+    padding:50px;
 
 }
 
@@ -26,6 +37,8 @@ p {
 
 .div-size {
     width: 50%;
+    background-color: #B1A296;
+    padding: 50px;
     
 }
 
