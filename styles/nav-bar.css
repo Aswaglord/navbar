@@ -1,0 +1,30 @@
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+}
+
+div img {
+    padding: 15px 10px 15px 25px;
+    width: 100px;
+    height: 75px;
+}
+
+.nav-links-wrapper a {
+    padding: 5px;
+    margin: 20px;
+    text-decoration: none;
+    color: rgb(10, 63, 237);
+
+}
+
+.nav-links-wrapper a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
